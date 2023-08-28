@@ -4,8 +4,9 @@ Click the button on the main window and select an image file from the dialog to 
 
 Build passed on Visual Studio 2022, .NET 6.0.
 
-<img src="images/image000.png" width="800"/>
+<img src="Images/image000.png" width="800"/>
 - https://pxhere.com/en/photo/1266816
+
 
 The following models were used, download and copy models to /onnx-models under the output directory.
 
