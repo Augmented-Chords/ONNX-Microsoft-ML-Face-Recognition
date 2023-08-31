@@ -1,5 +1,5 @@
-# ONNX_Microsoft_ML_Face_Recognition
-This is an exercise project using ONNX format models with Microsoft.ML, several pre-trained models were used to achieve face recognition and prediction of emotion, age and gender.
+# ONNX-Microsoft-ML-Face-Recognition
+This is an exercise project study using ONNX format models with Microsoft.ML, several pre-trained models were used to achieve face recognition and prediction of emotion, age and gender.
 Click the button on the main window and select an image file from the dialog to recognize and predict.
 
 Build passed on Visual Studio 2022, .NET 6.0.
